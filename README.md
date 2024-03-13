@@ -50,4 +50,5 @@ more specifically about Django in python
     </div>
 </td></tr></table>  
 </div>
+</div>
 ![Snake animation](https://github.com/VictorJoseNogueira/VictorJoseNogueira//blob/output/github-contribution-grid-snake.svg)
