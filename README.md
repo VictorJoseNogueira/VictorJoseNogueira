@@ -26,6 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 <div>
     <h2>Skills set</h2>
+    <table align="center"><tr><td align="center" width="50%" > 
     <div align="center">
         <h3>Front-end</h3>
         <p>
@@ -39,6 +40,7 @@ You can click the Preview link to take a look at your changes.
                 alt="bootstrap" height="50">
         </p>
     </div>
+        <td align="center" width="50%">
     <div>
         <h3>Back-end</h3>
         <p>
@@ -53,4 +55,5 @@ You can click the Preview link to take a look at your changes.
             alt="django" height="50">
         </p>
     </div>
+</td></tr></table>  
 </div>
