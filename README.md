@@ -1,10 +1,9 @@
 ###
 <div>
-###Olá, seja bem-vindo(a) ao meu GitHub!
+Olá, seja bem-vindo(a) ao meu GitHub!
 
 
 - 👋 Hi, I’m @VictorJoseNogueira
-- 💼 Estou em busca de uma oportunidade na área de tecnologia! </br>
 - 👀 I’m interested in Cyber security, 
 data science and machine learning
 - 🌱 I’m currently learning ...python, 
