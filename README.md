@@ -1,4 +1,6 @@
-###
+<div>
+    <h2>Ola, seja bem vindo(a) ao meu GitHub</h2>
+    <p>
 <div>
 Olá, seja bem-vindo(a) ao meu GitHub!
 
@@ -14,9 +16,7 @@ more specifically about class in python
 VictorJoseNogueira/VictorJoseNogueira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div>
-    <h2>Ola, seja bem vindo(a) ao meu GitHub</h2>
-    <p>
+
         💼 Estou em busca de uma oportunidade na área de tecnologia! <br>
         🧔 He/Ele <br>
         🎮 Apaixonado por Games, Animes, Músicas e Tecnologias <br>
