@@ -9,7 +9,7 @@ Olá, seja bem-vindo(a) ao meu GitHub!
 - 👀 I’m interested in Cyber security, 
 data science and machine learning
 - 🌱 I’m currently learning ...python, 
-more specifically about class in python
+more specifically about Django in python
 </div>
         💼 Estou em busca de uma oportunidade na área de tecnologia! <br>
         🧔 He/Ele <br>
