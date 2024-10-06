@@ -46,6 +46,8 @@ more specifically about Django in python
             alt="vscode" height="50">
             <img style="margin: 10px" src=https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain.svg
             alt="django" height="50">
+            <img style="margin: 10px" src=https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flask/flask-original.svg
+            alt="flask" height="50">
         </p>
     </div>
 </td></tr></table>  
