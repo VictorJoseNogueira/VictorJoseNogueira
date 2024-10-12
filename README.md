@@ -26,7 +26,7 @@ Hello, I am Victor José Nogueira
 
 ## GitHub Status and Skills
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorJoseNogueira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJoseNogueira&theme=chartreuse-dark&layout=compact&langs_count=16)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJoseNogueira&theme=chartreuse-dark&layout=compact)
 
 
 <table>
