@@ -2,14 +2,10 @@
     <h2>Ola, seja bem vindo(a) ao meu GitHub</h2>
     <p>
 <div>
-Olá, seja bem-vindo(a) ao meu GitHub!
-
-
-- 👋 Hi, I’m @VictorJoseNogueira
-- 👀 I’m interested in Cyber security, 
-data science and machine learning
-- 🌱 I’m currently learning ...python, 
-more specifically about Django in python
+Olá, Eu sou o Victor José Nogueira
+    
+- 👀 Estou em busca de entrar no mercado de tecnologia
+- 🌱 Atualmente estou estudando Django
 </div>
         💼 Estou em busca de uma oportunidade na área de tecnologia! <br>
         🧔 He/Ele <br>
@@ -17,7 +13,14 @@ more specifically about Django in python
         🚩 Mauá-SP, BR
     </p>
 </div>
+<div  style="align='center'">
 
+## GitHub Status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorJoseNogueira&locale=pt-br&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJoseNogueira&locale=pt-br&theme=chartreuse-dark&layout=compact&langs_count=16)
+
+
+</div>
 <div>
     <h2>Skills set</h2>
     <table align="center"><tr><td align="center" width="50%" > 
@@ -34,7 +37,7 @@ more specifically about Django in python
                 alt="bootstrap" height="50">
         </p>
     </div>
-        <td align="center" width="50%">
+        <td width="50%">
     <div>
         <h3>Back-end</h3>
         <p>
