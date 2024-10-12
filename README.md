@@ -59,11 +59,7 @@ Hello, I am Victor José Nogueira
 </table>
 </div>
 </div>
-<div>
-    ![snake animation](https://github.com/VictorJoseNogueira/VictorJoseNogueira/blob/output/github-contribution-grid-snake2.svg)
-    ![snake gif](https://github.com/VictorJoseNogueira/VictorJoseNogueira/blob/output/github-contribution-grid-snake.gif)
 
-</div>
 
 
 
