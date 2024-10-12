@@ -5,7 +5,7 @@
 Hello, I am Victor José Nogueira
     
 - 👀 I am looking to enter the tech industry
-- 🌱 I am currently studying Django
+- 🌱 I am currently studying Django and Data Science
 </div>
         💼 I am looking for an opportunity in the technology field! <br>
         🧔 He/Him <br>
