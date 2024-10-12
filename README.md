@@ -8,8 +8,9 @@ Hello, I am Victor José Nogueira
 - 🌱 I am currently studying Django and Data Science
 </div>
         💼 I am looking for an opportunity in the technology field! <br>
-        🧔 He/Him <br>
+        🤞 My dream is to one day work with AI and Machine Learning
         🎮 Passionate about Games, Anime, Music, and Technology <br>
+        🧔 He/Him <br>
         🚩 Mauá-SP, BR
     </p>
 </div>
