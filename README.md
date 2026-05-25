@@ -69,6 +69,6 @@ Sou especialista no desenvolvimento de sistemas backend robustos, automação de
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorJoseNogueira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Victor" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorJoseNogueira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJoseNogueira&theme=chartreuse-dark&layout=compact" alt="Linguagens Mais Usadas" height="160" />
 </p>
