@@ -1,21 +1,21 @@
-# Hello, welcome to my GitHub! 👋
+# Olá, bem-vindo ao meu GitHub! 👋
 
-## About Me
+## Sobre Mim
 
-Hello, I am **Victor José Nogueira**, a Junior Backend & Automation Developer based in Mauá, SP. 
+Olá, eu sou o **Victor José Nogueira**, Desenvolvedor Backend & Automação Jr, residente em Mauá, SP.
 
-I specialize in building robust backend systems, process automation, web scraping, and data manipulation, with a strong focus on delivering efficiency, reducing operational hours, and integrating AI solutions into real-world workflows.
+Sou especialista no desenvolvimento de sistemas backend robustos, automação de processos, web scraping e manipulação de dados. Meu foco principal é entregar eficiência operacional, reduzir horas de trabalho manual e integrar soluções de Inteligência Artificial a fluxos de trabalho reais.
 
-- 💼 **Current Focus:** Backend Development, REST APIs, and Process Automation.
-- 🚀 **AI & Data Experience:** Practical implementation of pipelines using LLMs (Llama 3.3/3.1 via Groq SDK), Prompt Engineering, and automated data processing (Pandas/SQL).
-- 🎓 **Education:** Bachelor's in Data Science (In Progress - Exp. 12/2027) & Bachelor's in Information Technology (Graduated - 06/2025) | UNIVESP.
-- 🧔 He/Him
+- 💼 **Foco Atual:** Desenvolvimento Backend, APIs REST e Automação de Processos.
+- 🚀 **Experiência com IA e Dados:** Implementação prática de pipelines utilizando LLMs (Llama 3.3/3.1 via Groq SDK), Engenharia de Prompts e processamento automatizado de dados com Pandas e SQL.
+- 🎓 **Formação:** Bacharelado em Ciência de Dados (Em andamento - Previsão 12/2027) e Bacharelado em Tecnologia da Informação (Concluído - 06/2025) | UNIVESP.
+- 🧔 Ele/Dele
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Habilidades & Tecnologias
 
-### Back-end & Databases
+### Back-end & Bancos de Dados
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
@@ -27,48 +27,7 @@ I specialize in building robust backend systems, process automation, web scrapin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" width="40" />
 </p>
 
-### Automation, Scraping & AI
+### Automação, Scraping & IA
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" width="40" />
-</p>
-
-### Front-end
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" width="40" />
-</p>
-
----
-
-## 📈 Key Impact & Metrics
-* **+300 hours saved:** Automated contract calculations and class auditing, wiping out manual operational overhead.
-* **80% Productivity Boost:** Implemented internal scripts and custom payment assistant systems processing R$ 40k+ per cycle.
-* **Data Optimization:** Formatted and normalized dirty database records, speeding up query times by 40%.
-* **AI Pipelines:** Developed an end-to-end headless web scraping tool integrated with Groq API (Llama 3.3/3.1) for semantic analysis and smart filtering.
-
----
-
-## 📫 Contact & Socials
-
-<p align="left">
-  <a href="mailto:victorvalim1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/victor-nogueira-193a67256/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorJoseNogueira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="Victor's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJoseNogueira&theme=chartreuse-dark&layout=compact" alt="Top Languages" height="160" />
-</p>
+  <img src="https://
