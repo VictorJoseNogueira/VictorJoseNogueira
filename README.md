@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá, eu sou o **Victor José Nogueira**, Desenvolvedor Backend & Automação Jr, residente em Mauá, SP.
+Olá, eu sou o **Victor José Nogueira**, Desenvolvedor Backend & Automação, residente em SP.
 
 Sou especialista no desenvolvimento de sistemas backend robustos, automação de processos, web scraping e manipulação de dados. Meu foco principal é entregar eficiência operacional, reduzir horas de trabalho manual e integrar soluções de Inteligência Artificial a fluxos de trabalho reais.
 
