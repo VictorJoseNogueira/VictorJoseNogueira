@@ -29,18 +29,18 @@ Sou especialista no desenvolvimento de sistemas backend robustos, automação de
 
 | Tecnologia | Nome | Tecnologia | Nome |
 | :---: | :--- | :---: | :--- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28" width="28" /> | Pandas & NumPy | <img src="https://img.shields.io/badge/Scraping-Playwright-2e8b57?style=flat-square" height="20" /> | Playwright |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="28" width="28" /> | Selenium | <img src="https://img.shields.io/badge/IA-LLM%20%2F%20Groq%20%2F%20Llama-red?style=flat-square" height="20" /> | Integração com LLMs |
-| <img src="https://img.shields.io/badge/Engenharia%20de%20Prompts-Certificada-purple?style=flat-square" height="20" /> | Prompt Engineering | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" width="28" /> | Docker |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" width="28" /> | Git & GitHub | | |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28" width="28" /> | Pandas & NumPy | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polars/polars-original.svg" height="28" width="28" /> | Polars |
+| <img src="https://img.shields.io/badge/Scraping-Playwright-2e8b57?style=flat-square" height="20" /> | Playwright | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="28" width="28" /> | Selenium |
+| <img src="https://img.shields.io/badge/IA-LLM%20%2F%20Groq%20%2F%20Llama-red?style=flat-square" height="20" /> | Integração com LLMs | <img src="https://img.shields.io/badge/Engenharia%20de%20Prompts-Certificada-purple?style=flat-square" height="20" /> | Prompt Engineering |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" width="28" /> | Docker | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" width="28" /> | Git & GitHub |
 
 ### 🎨 Front-end & Design
 
 | Tecnologia | Nome | Tecnologia | Nome |
 | :---: | :--- | :---: | :--- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" width="28" /> | HTML5 / CSS3 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" width="28" /> | Bootstrap |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" width="28" /> | React | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="28" width="28" /> | Vue.js |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="28" width="28" /> | Figma | | |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" width="28" /> | HTML5 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" width="28" /> | CSS3 |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" width="28" /> | Bootstrap | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" width="28" /> | React |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="28" width="28" /> | Vue.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="28" width="28" /> | Figma |
 
 ### 📊 Dados, Arquitetura & Práticas (Conceitos Core)
 
