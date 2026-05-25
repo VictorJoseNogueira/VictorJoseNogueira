@@ -14,33 +14,30 @@ Sou especialista no desenvolvimento de sistemas backend robustos, automação de
 ---
 
 ## 🛠️ Habilidades & Tecnologias
-
 ### Back-end & Bancos de Dados
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" width="40" />
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" alt="Python" height="40" width="40" /> Python
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)" alt="JavaScript" height="40" width="40" /> JavaScript
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg)" alt="Django" height="40" width="40" /> Django
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg)" alt="Flask" height="40" width="40" /> Flask
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg)" alt="FastAPI" height="40" width="40" /> FastAPI
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)" alt="MySQL" height="40" width="40" /> MySQL
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)" alt="PostgreSQL" height="40" width="40" /> PostgreSQL
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)" alt="MongoDB" height="40" width="40" /> MongoDB
 </p>
-
 ### Automação, Scraping & IA
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" width="40" />
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg)" alt="Pandas" height="40" width="40" /> Pandas
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg)" alt="Selenium" height="40" width="40" /> Selenium
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)" alt="Docker" height="40" width="40" /> Docker
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)" alt="Git" height="40" width="40" /> Git
 </p>
-
 ### Front-end
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" width="40" />
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)" alt="HTML5" height="40" width="40" /> HTML5
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)" alt="CSS3" height="40" width="40" /> CSS3
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)" alt="Bootstrap" height="40" width="40" /> Bootstrap
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)" alt="React" height="40" width="40" /> React
 </p>
 
 ---
