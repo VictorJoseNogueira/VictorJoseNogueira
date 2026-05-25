@@ -24,7 +24,7 @@ Sou especialista no desenvolvimento de sistemas backend robustos, automação de
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="28" width="28" /> | Django | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="28" width="28" /> | Flask |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="28" width="28" /> | FastAPI | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28" width="28" /> | Express |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" width="28" /> | MySQL (SQL) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" width="28" /> | PostgreSQL |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" width="28" /> | MongoDB (NoSQL) | <img src="https://img.shields.io/badge/ODM-MongoEngine-green?style=flat-square" height="20" /> | MongoEngine |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" width="28" /> | MongoDB (NoSQL) | <img | |
 
 ### 🤖 Automação, Scraping & Inteligência Artificial
 
